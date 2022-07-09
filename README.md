@@ -36,7 +36,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Java](https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?style=flat-squar&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
@@ -47,7 +47,7 @@
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/-Bash-FF69B4?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![Bash](https://img.shields.io/badge/-Bash-FF69B4?style=flat-squar&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-squar&logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-squar&logo=c-in-hexagon&logoColor=white)
 
