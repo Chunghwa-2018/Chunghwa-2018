@@ -40,8 +40,8 @@
 -->
 
 ![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
-![Spring](https://img.shields.io/badge/-Spring-282C34?style=flat-square&logo=spring&logoColor=7CB04F)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-282C34?style=flat-square&logo=springBoot&logoColor=7CB04F)
+![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
