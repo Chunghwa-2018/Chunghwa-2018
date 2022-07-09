@@ -40,9 +40,10 @@
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
+![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 
+![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
@@ -59,6 +60,7 @@
 
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 
 <!--
 
