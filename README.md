@@ -61,14 +61,14 @@
 -->
 
 ## Stats
-<div style="text-align:center; display:flex;">
-<div style="width:50%; margin-right:5px;">
+<div style="display:flex;">
+<div style="width:50%; margin-right:5px; height:240px;">
 
 ![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
 
 </div>
 
-<div style="width:50%; margin-left:5px;">
+<div style="width:50%; margin-left:5px; height:240px;">
 
 ![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&layout=compact)
 
