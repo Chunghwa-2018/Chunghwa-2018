@@ -28,7 +28,7 @@
 ![Vue.js](https://img.shields.io/badge/-vue-40b883?style=flat-square&logo=Vue.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=81D7F7)
 ![Antd](https://img.shields.io/badge/-Antd-3575f6?style=flat-square&logo=AntDesign&logoColor=e3545a)
-![Node.js](https://img.shields.io/badge/-Node.js-282C34?style=flat-square&logo=node.js&logoColor=7EA96A)
+![Node.js](https://img.shields.io/badge/-Node.js-046d01?style=flat-square&logo=node.js&logoColor=FFFFFF)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-402244?style=flat-square&logo=bootstrap&logoColor=4577B2)
 
