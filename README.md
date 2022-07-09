@@ -13,9 +13,9 @@
 
 ## Stack
 
-![Windows](https://img.shields.io/badge/-Windows-FFFFFF?style=flat-square&logo=windows&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=FFFFFF)
 ![MacOS X](https://img.shields.io/badge/-Mac-4A494A?style=flat-square&logo=apple&logoColor=FFFFFF)
-![ArchLinux](https://img.shields.io/badge/-Arch-FFFFFF?style=flat-square&logo=archlinux&logoColor=007ACC)
+![ArchLinux](https://img.shields.io/badge/-Arch-007ACC?style=flat-square&logo=archlinux&logoColor=FFFFFF)
 ![ManjaroLinux](https://img.shields.io/badge/-Manjaro-282C34?style=flat-square&logo=manjaro&logoColor=6ee5b8)
 
 
@@ -27,9 +27,9 @@
 
 ![Vue.js](https://img.shields.io/badge/-vue-282C34?style=flat-square&logo=Vue.js&logoColor=7EA96A)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=81D7F7)
-![AntDesign](https://img.shields.io/badge/-Antd-FFFFFF?style=flat-square&logo=AntDesign&logoColor=e3545a&labelColor=3575f6)
+![Antd](https://img.shields.io/badge/-Antd-3575f6?style=flat-square&logo=AntDesign&logoColor=e3545a)
 ![Node.js](https://img.shields.io/badge/-Node.js-282C34?style=flat-square&logo=node.js&logoColor=7EA96A)
-![npm](https://img.shields.io/badge/-npm-FFFFFF?style=flat-square&logo=npm)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-402244?style=flat-square&logo=bootstrap&logoColor=4577B2)
 
 <!--
@@ -39,24 +39,26 @@
 
 -->
 
-![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker&logoColor=4992e2)
+![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Spring](https://img.shields.io/badge/-Spring-282C34?style=flat-square&logo=spring&logoColor=7CB04F)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-282C34?style=flat-square&logo=springBoot&logoColor=%7CB04F)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-282C34?style=flat-square&logo=springBoot&logoColor=7CB04F)
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
-![Vim](https://img.shields.io/badge/-Vim-FFFFFF?style=flat-square&logo=Vim&labelColor=56953F)
+![Vim](https://img.shields.io/badge/-Vim-56953F?style=flat-square&logo=Vim)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-58BFCD?style=flat-square&logo=webstorm&logoColor=000000&labelColor=3679f2)
 ![IDEA](https://img.shields.io/badge/-IDEA-3679f2?style=flat-square&logo=intellijIdea&logoColor=000000&labelColor=e9415a)
-![VsCode](https://img.shields.io/badge/-vscode-FFFFFF?style=flat-square&logo=visualstudiocode&logoColor=4b99e9)
+![VsCode](https://img.shields.io/badge/-vscode-4b99e9?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
 
-![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat-square&logo=git&logoColor=D65434)
-![Github](https://img.shields.io/badge/-Github-FFFFFF?style=flat-square&logo=github&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
-![markdown](https://img.shields.io/badge/-markdown-FFFFFF?style=flat-square&logo=markdown&logoColor=000000)
+![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 
+<!--
+![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF)
+-->
 
 <!--
 
