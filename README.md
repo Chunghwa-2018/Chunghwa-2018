@@ -15,7 +15,7 @@
 
 **且听风吟，静待花开......**
 
-## Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Stack
 
 ![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=FFFFFF)
 ![MacOS X](https://img.shields.io/badge/-Mac-4A494A?style=flat-square&logo=apple&logoColor=FFFFFF)
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat-square&logo=css3&logoColor=FFFFFF)
 ![Jquery](https://img.shields.io/badge/-JQuery-007ACC?style=flat-square&logo=jquery&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
 
 ![Vue.js](https://img.shields.io/badge/-vue-40b883?style=flat-square&logo=Vue.js&logoColor=FFFFFF)
@@ -34,14 +34,22 @@
 ![Antd](https://img.shields.io/badge/-Antd-3575f6?style=flat-square&logo=AntDesign&logoColor=e3545a)
 ![Node.js](https://img.shields.io/badge/-Node.js-046d01?style=flat-square&logo=node.js&logoColor=FFFFFF)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-402244?style=flat-square&logo=bootstrap&logoColor=4577B2)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
-![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
+![Java](https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
+![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
+
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
+![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
+![Bash](https://img.shields.io/badge/-Bash-FF69B4?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
+![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-squar&logo=gnu-bash&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-squar&logo=c-in-hexagon&logoColor=white)
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/-Vim-56953F?style=flat-square&logo=Vim)
@@ -49,9 +57,9 @@
 ![IDEA](https://img.shields.io/badge/-IDEA-3679f2?style=flat-square&logo=intellijIdea&logoColor=000000&labelColor=e9415a)
 ![VsCode](https://img.shields.io/badge/-vscode-4b99e9?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
 
-![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
-![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
+
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <!--
 
@@ -64,10 +72,10 @@
 
 ![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
 
-
 <!--
 
-## Open Source projects
+## opensource projects
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -105,30 +113,65 @@
 
 -->
 
-<!-- 
 
-![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
+<!--
+
+## My top open source projects
+
+<p align="left">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
+  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
+  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/Chuanghwa-2018?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
+
+
+## 📕 Top projects I've contributed to
 
 -->
 
 
-
+<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <!--
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
+  <a href="https://github.com/badges/shields"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shields"></a>
+  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
+  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
+  <a href="https://github.com/o2sh/onefetch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="onefetch"></a>
+  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+</p>
+
+
+-->
+
+
+<!-- 
+
+![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
-</div>
-
 -->
+
 
 
 
