@@ -47,9 +47,8 @@
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
-![Bash](https://img.shields.io/badge/-Bash-FF69B4?style=flat-squar&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-squar&logo=gnu-bash&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-squar&logo=c-in-hexagon&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
 ![Vim](https://img.shields.io/badge/-Vim-56953F?style=flat-square&logo=Vim)
