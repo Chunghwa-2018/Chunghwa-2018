@@ -61,8 +61,41 @@
 -->
 
 ## Stats
-![ Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
+<div style="text-align:center; display:flex;">
+<div style="width:50%; margin-right:5px;">
 
+![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
+
+</div>
+
+<div style="width:50%; margin-left:5px;">
+
+![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&layout=compact)
+
+</div>
+
+</div>
+
+
+
+<div style="width:350px;">
+
+![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
+
+</div>
+
+<div style="width:350px;">
+
+![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&layout=compact)
+
+</div>
+
+
+<!--
+
+[![Chuanghwa's github profile trophy](https://github-profile-trophy.vercel.app/?username=Chunghwa-2018&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
+-->
 
 
 
