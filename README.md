@@ -27,7 +27,7 @@
 
 ![Vue.js](https://img.shields.io/badge/-vue-%23282C34?style=flat&logo=Vue.js&logoColor=%237EA96A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react&logoColor=%2381D7F7)
-![AntDesign](https://img.shields.io/badge/-Antd-%23FFFFFF?style=flat&logo=AntDesign&logoColor=%233575f6)
+![AntDesign](https://img.shields.io/badge/-Antd-%23FFFFFF?style=flat&logo=AntDesign&logoColor=%23e3545a&labelColor=%233575f6)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23282C34?style=flat&logo=node.js&logoColor=%237EA96A)
 ![npm](https://img.shields.io/badge/-npm-%23FFFFFF?style=flat&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23402244?style=flat&logo=bootstrap&logoColor=%234577B2)
@@ -50,7 +50,7 @@
 ![Alfred](https://img.shields.io/badge/-alfred-%23431b67?style=flat&logo=alfred&logoColor=%23FFFFFF)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-%2358BFCD?style=flat&logo=webstorm&logoColor=%23000000&labelColor=%233679f2)
 ![IDEA](https://img.shields.io/badge/-IDEA-%233679f2?style=flat&logo=intellijIdea&logoColor=%23000000&labelColor=%23e9415a)
-![Vim](https://img.shields.io/badge/-Vim-%23FFFFFF?style=flat&logo=Vim&logoColor=%235b9d42)
+![Vim](https://img.shields.io/badge/-Vim-%23FFFFFF?style=flat&logo=Vim&labelColor=%2356953F)
 ![VsCode](https://img.shields.io/badge/-vscode-%23FFFFFF?style=flat&logo=visualstudiocode&logoColor=%234b99e9)
 
 
