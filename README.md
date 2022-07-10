@@ -146,9 +146,9 @@
 ## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
 
 <p>
-  <a href="https://github.com/Chunghwa-2018/design-patterns"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
-  <a href="https://github.com/Chunghwa-2018/macos-mode-controller"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=macos-mode-controller&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="macos-mode-controller"></a>
-  <a href="https://github.com/Chunghwa-2018/ netease-music-controller"><img width="282" src="https://github-readme-stats.vercel.app/api/pin?username=Chunghwa-2018&repo=netease-music-controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="netease-music-controller"></a>
+  <a href="https://github.com/Chunghwa-2018/design-patterns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
+  <a href="https://github.com/Chunghwa-2018/macos-mode-controller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=macos-mode-controller&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="macos-mode-controller"></a>
+  <a href="https://github.com/Chunghwa-2018/ netease-music-controller"><img src="https://github-readme-stats.vercel.app/api/pin?username=Chunghwa-2018&repo=netease-music-controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="netease-music-controller"></a>
 </p>
 
 
@@ -164,7 +164,7 @@
 <!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
 
 <p>
-  <a href="https://github.com/chxuan/vimplus"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus"></a>
+  <a href="https://github.com/chxuan/vimplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus"></a>
 </p>
 
 <p>
