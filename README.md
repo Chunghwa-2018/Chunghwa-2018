@@ -87,16 +87,18 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" height="192px" />
   </a>
 
-  <a href="https://github.com/Chunghwa-2018?tab=repositories">
-    <img alt="Chunghwa's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Chunghwa-2018&bg_color=1F222E&color=AAD100&line=68B488&point=white&hide_border=true" />
+  <!--
+  <a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
+    <img alt="Chunghwa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
   </a>
-<p>
-
-  <!-- 
   <a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chunghwa-2018&theme=merko&hide_border=true" alt="Chunghwa-anka" height="192px"/>
   </a>
+  <a href="https://github.com/Chunghwa-2018?tab=repositories">
+    <img alt="Chunghwa's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Chunghwa-2018&bg_color=1F222E&color=AAD100&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
   -->
+
 </p>
 
 ## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
