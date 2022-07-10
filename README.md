@@ -1,5 +1,9 @@
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  Hi, I'm Chunghwa!
+  <img src="https://komarev.com/ghpvc/?username=Chunghwa-2018">
+</h1>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chunghwa  ![Chunghwa's Profile Views Counter](https://komarev.com/ghpvc/?username=Chunghwa-2018)
 
 [![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FChunghwa-2018&query=count&color=282c34&label=GitHub&labelColor=181717&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Chunghwa-2018)
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fyu-lai-jiang-se-mu-2018&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=FFFFFF&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/yu-lai-jiang-se-mu-2018)
@@ -28,13 +32,14 @@
 
 .......
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Stack
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+</h2>
 
 ![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=FFFFFF)
 ![MacOS X](https://img.shields.io/badge/-Mac-4A494A?style=flat-square&logo=apple&logoColor=FFFFFF)
 ![ArchLinux](https://img.shields.io/badge/-Arch-007ACC?style=flat-square&logo=archlinux&logoColor=FFFFFF)
 ![ManjaroLinux](https://img.shields.io/badge/-Manjaro-282C34?style=flat-square&logo=manjaro&logoColor=6ee5b8)
-
 
 ![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat-square&logo=css3&logoColor=FFFFFF)
@@ -80,8 +85,10 @@
 ![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=opera&logoColor=white)
 
 
-## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">Stats
-
+<h3>
+  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">
+  𝗦𝘁𝗮𝘁𝘀
+</h3>
 <p>
   <a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
     <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" height="192px" />
@@ -134,14 +141,12 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <!-- 
-
 ![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
 -->
 
 
