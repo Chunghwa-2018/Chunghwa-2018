@@ -73,7 +73,6 @@
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-
 ![safari](https://img.shields.io/badge/-safari-6db33f?style=flat-square&logo=safari&logoColor=white)
 ![chrome](https://img.shields.io/badge/-chrome-red?style=flat-square&logo=googlechrome&logoColor=white)
 ![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
@@ -162,7 +161,7 @@
 
 
 
-## Top projects I've contributed to
+## <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>Top projects I've contributed to
 
 <!-- Repo info cards - https://github.com/Chunghwa-2018/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
