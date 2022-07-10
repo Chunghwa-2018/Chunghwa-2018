@@ -58,6 +58,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Tomcat](https://img.shields.io/badge/-Apache-C88122?style=flat-square&logo=apachetomcat&logoColor=white)
+![Nginx](https://img.shields.io/badge/-nginx-009900?style=flat-square&logo=nginx&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
@@ -70,6 +73,7 @@
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+
 ![safari](https://img.shields.io/badge/-safari-6db33f?style=flat-square&logo=safari&logoColor=white)
 ![chrome](https://img.shields.io/badge/-chrome-red?style=flat-square&logo=googlechrome&logoColor=white)
 ![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
