@@ -65,17 +65,36 @@
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![safari](https://img.shields.io/badge/-safari-5849BE?style=flat-square&logo=safari&logoColor=white)
+![chrome](https://img.shields.io/badge/-chrome-5849BE?style=flat-square&logo=googlechrome&logoColor=white)
+![edge](https://img.shields.io/badge/-edge-5849BE?style=flat-square&logo=microsoftedge&logoColor=white)
+![firefox](https://img.shields.io/badge/-firefox-5849BE?style=flat-square&logo=firefox&logoColor=white)
+![opera](https://img.shields.io/badge/-opera-5849BE?style=flat-square&logo=firefox&logoColor=white)
+
 
 <!--
-
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF)
-![Shell](https://img.shields.io/badge/-shell-FFFFFF?style=flat-square&logo=shell&logoColor=000000)
-
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 -->
 
 ## Stats
 
+<!--
 ![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
+-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img   src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" />
+</a>
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&layout=compact" />
+</a>
+-->
+
 
 <!--
 
@@ -119,52 +138,38 @@
 -->
 
 
-<!--
-
 ## My top open source projects
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=DenverCoder1&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-  <a href="https://github.com/DenverCoder1/unicode-formatter"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=unicode-formatter&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=Unedit-for-Reddit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Unedit-for-Reddit"></a>
-  <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+<p>
+  <a href="https://github.com/Chunghwa-2018/design-patterns"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
+  <a href="https://github.com/Chunghwa-2018/macos-mode-controller"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=macos-mode-controller&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="macos-mode-controller"></a>
+  <a href="https://github.com/Chunghwa-2018/ netease-music-controller"><img width="282" src="https://github-readme-stats.vercel.app/api/pin?username=Chunghwa-2018&repo=netease-music-controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="netease-music-controller"></a>
 </p>
 
 
-<p align="left">
+<p>
   <a href="https://github.com/Chuanghwa-2018?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
 
-## 📕 Top projects I've contributed to
-
--->
-
+## Top projects I've contributed to
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+<!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
 
-<!--
 
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-stats"></a>
-  <a href="https://github.com/badges/shields"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="shields"></a>
-  <a href="https://github.com/simple-icons/simple-icons"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-icons"></a>
-  <a href="https://github.com/Rapptz/discord.py"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="discord.py"></a>
-  <a href="https://github.com/o2sh/onefetch"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="onefetch"></a>
-  <a href="https://github.com/nextcord/nextcord"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=nextcord&repo=nextcord&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="nextcord"></a>
+  <a href="https://github.com/chxuan/vimplus"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus"></a>
 </p>
 
 <p align="left">
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-
--->
-
+<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
+<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <!-- 
 
