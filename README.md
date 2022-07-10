@@ -77,7 +77,7 @@
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 -->
 
-## Stats
+## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">Stats
 
 <!--
 ![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
@@ -138,7 +138,7 @@
 -->
 
 
-## My top open source projects
+## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
 
 <p>
   <a href="https://github.com/Chunghwa-2018/design-patterns"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
@@ -167,8 +167,6 @@
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
-<img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
-<img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <!-- 
