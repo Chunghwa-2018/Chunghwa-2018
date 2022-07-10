@@ -1,6 +1,6 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hi, I'm Chunghwa!
+  𝗛𝗶, 𝗜'𝗺 𝗖𝗵𝘂𝗻𝗴𝗵𝘄𝗮!
   <img src="https://komarev.com/ghpvc/?username=Chunghwa-2018">
 </h1>
 
@@ -110,7 +110,7 @@
 
 <h2>
   <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">
-  My top open source projects
+  𝗠𝘆 𝘁𝗼𝗽 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 </h2>
 
 <p>
@@ -131,7 +131,7 @@
 
 <h2>
   <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>
-  Top projects I've contributed to
+  𝗧𝗼𝗽 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗜'𝘃𝗲 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝘁𝗼
 </h2>
 <p>
   <a href="https://github.com/chxuan/vimplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus">
