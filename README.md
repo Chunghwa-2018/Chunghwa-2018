@@ -32,7 +32,6 @@
 ![Jquery](https://img.shields.io/badge/-JQuery-007ACC?style=flat-square&logo=jquery&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
-
 ![Vue.js](https://img.shields.io/badge/-vue-40b883?style=flat-square&logo=Vue.js&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=81D7F7)
 ![Antd](https://img.shields.io/badge/-Antd-3575f6?style=flat-square&logo=AntDesign&logoColor=e3545a)
@@ -46,7 +45,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-496D90?style=flat-square&logo=mysql&logoColor=E49538)
 ![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)
-
 ![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
@@ -59,17 +57,15 @@
 ![Vim](https://img.shields.io/badge/-Vim-56953F?style=flat-square&logo=Vim)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-58BFCD?style=flat-square&logo=webstorm&logoColor=000000&labelColor=3679f2)
 ![IDEA](https://img.shields.io/badge/-IDEA-3679f2?style=flat-square&logo=intellijIdea&logoColor=000000&labelColor=e9415a)
-![VsCode](https://img.shields.io/badge/-vscode-4b99e9?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
-
-
+![VsCode](https://img.shields.io/badge/-vscode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
-![safari](https://img.shields.io/badge/-safari-5849BE?style=flat-square&logo=safari&logoColor=white)
-![chrome](https://img.shields.io/badge/-chrome-5849BE?style=flat-square&logo=googlechrome&logoColor=white)
-![edge](https://img.shields.io/badge/-edge-5849BE?style=flat-square&logo=microsoftedge&logoColor=white)
-![firefox](https://img.shields.io/badge/-firefox-5849BE?style=flat-square&logo=firefox&logoColor=white)
-![opera](https://img.shields.io/badge/-opera-5849BE?style=flat-square&logo=firefox&logoColor=white)
+![safari](https://img.shields.io/badge/-safari-6db33f?style=flat-square&logo=safari&logoColor=white)
+![chrome](https://img.shields.io/badge/-chrome-red?style=flat-square&logo=googlechrome&logoColor=white)
+![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
+![firefox](https://img.shields.io/badge/-firefox-ff5935?style=flat-square&logo=firefox&logoColor=white)
+![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=firefox&logoColor=white)
 
 
 <!--
