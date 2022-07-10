@@ -82,13 +82,14 @@
 
 ## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" />
+<p>
+<a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" height="192px" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chunghwa-2018&theme=merko&hide_border=true" alt="Chunghwa-anka" />
+<a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chunghwa-2018&theme=merko&hide_border=true" alt="Chunghwa-anka" height="192px"/>
 </a>
-
+</p>
 
 ## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
 
