@@ -1,5 +1,5 @@
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chuanghwa  ![Chuanghwa's Profile Views Counter](https://komarev.com/ghpvc/?username=Chunghwa-2018)
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Chunghwa  ![Chunghwa's Profile Views Counter](https://komarev.com/ghpvc/?username=Chunghwa-2018)
 
 [![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FChunghwa-2018&query=count&color=282c34&label=GitHub&labelColor=181717&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/Chunghwa-2018)
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fyu-lai-jiang-se-mu-2018&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=FFFFFF&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/yu-lai-jiang-se-mu-2018)
@@ -85,7 +85,7 @@
 ## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">Stats
 
 <!--
-![Chuanghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
+![Chunghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -153,7 +153,7 @@
 
 
 <p>
-  <a href="https://github.com/Chuanghwa-2018?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Chunghwa-2018?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
