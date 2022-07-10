@@ -160,7 +160,7 @@
 
 ## Top projects I've contributed to
 
-<!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Repo info cards - https://github.com/Chunghwa-2018/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
 
 <p>
@@ -168,7 +168,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  <a href="https://github.com/Chunghwa-2018?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
