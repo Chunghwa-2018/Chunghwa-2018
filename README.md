@@ -65,7 +65,7 @@
 ![chrome](https://img.shields.io/badge/-chrome-red?style=flat-square&logo=googlechrome&logoColor=white)
 ![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
 ![firefox](https://img.shields.io/badge/-firefox-ff5935?style=flat-square&logo=firefox&logoColor=white)
-![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=firefox&logoColor=white)
+![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=opera&logoColor=white)
 
 
 <!--
