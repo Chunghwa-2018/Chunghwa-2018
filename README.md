@@ -10,10 +10,10 @@
 [![GithubStars](https://custom-icon-badges.herokuapp.com/github/stars/Chunghwa-2018/Chunghwa-2018?logo=star&labelColor=343b41)](https://github/Chunghwa-2018/Chunghwa-2018/stargazers "stars")
 [![GithubForks](https://custom-icon-badges.herokuapp.com/github/forks/Chunghwa-2018/Chunghwa-2018?logo=fork&labelColor=343b41)](https://github/Chunghwa-2018/Chunghwa-2018/stargazers "forks")
 
+<!--
 ![GithubStars1](https://img.shields.io/github/stars/Chunghwa-2018/Chunghwa-2018?style=flat&labelColor=343b41)
 ![GithubForks2](https://img.shields.io/github/forks/Chunghwa-2018/Chunghwa-2018?style=flat&labelColor=343b41)
 
-<!-- 
 [![issues](https://custom-icon-badges.herokuapp.com/github/issues-raw/Chunghwa-2018/Chunghwa-2018?logo=issue&labelColor=343b41)](https://github/Chunghwa-2018/Chunghwa-2018/issues "issue")
 [![license](https://custom-icon-badges.herokuapp.com/github/license/denvercoder1/custom-icon-badges?logo=law&logoColor=white)](https://github.com/DenverCoder1/custom-icon-badges/blob/main/LICENSE?rgh-link-date=2021-08-09T18%3A10%3A26Z "license MIT")
 [![discord](https://custom-icon-badges.herokuapp.com/discord/819650821314052106?color=7289DA&logo=comments&label=discord&logoColor=white)](https://discord.gg/fPrdqh3Zfu "Dev Pro Tips Discussion & Support Server")
@@ -163,12 +163,11 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
 
-
-<p align="left">
+<p>
   <a href="https://github.com/chxuan/vimplus"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus"></a>
 </p>
 
-<p align="left">
+<p>
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 </p>
 
