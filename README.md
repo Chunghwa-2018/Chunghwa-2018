@@ -85,10 +85,10 @@
 ![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=opera&logoColor=white)
 
 
-<h3>
+<h2>
   <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">
   𝗦𝘁𝗮𝘁𝘀
-</h3>
+</h2>
 <p>
   <a href="https://github.com/Chunghwa-2018/Chunghwa-2018">
     <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" height="192px" />
@@ -108,7 +108,10 @@
 
 </p>
 
-## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
+<h2>
+  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">
+  My top open source projects
+</h2>
 
 <p>
   <a href="https://github.com/Chunghwa-2018/design-patterns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chunghwa-2018&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns">
@@ -126,8 +129,10 @@
 </p>
 
 
-## <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>Top projects I've contributed to
-
+<h2>
+  <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>
+  Top projects I've contributed to
+</h2>
 <p>
   <a href="https://github.com/chxuan/vimplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus">
   </a>
