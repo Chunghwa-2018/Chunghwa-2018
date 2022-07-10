@@ -80,70 +80,14 @@
 ![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=opera&logoColor=white)
 
 
-<!--
-![Github](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
--->
-
 ## <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">Stats
 
-<!--
-![Chunghwa's github stats](https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko)
--->
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img   src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" />
-</a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chunghwa-2018&show_icons=true&theme=merko&hide_border=true" alt="Chunghwa-stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chunghwa-2018&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chunghwa-2018&theme=merko&hide_border=true" alt="Chunghwa-anka" />
 </a>
--->
-
-
-<!--
-
-## opensource projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Chunghwa-2018/macos-mode-controller"><b>bmacos-mode-controller</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chunghwa-2018/macos-mode-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Chunghwa-2018/macos-mode-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chunghwa-2018/macos-mode-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chunghwa-2018/macos-mode-controller?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/Chunghwa-2018/netease-music-controller"><b>netease-music-controller</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chunghwa-2018/netease-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Chunghwa-2018/netease-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chunghwa-2018/netease-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chunghwa-2018/netease-music-controller?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Chunghwa-2018/qq-music-controller"><b>qq-music-controller</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Chunghwa-2018/qq-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Chunghwa-2018/qq-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Chunghwa-2018/qq-music-controller?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Chunghwa-2018/qq-music-controller?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-
--->
 
 
 ## <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">My top open source projects
@@ -160,11 +104,7 @@
 </p>
 
 
-
 ## <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>Top projects I've contributed to
-
-<!-- Repo info cards - https://github.com/Chunghwa-2018/github-readme-stats -->
-<!-- Small repo cards (fork) - https://github.com/Chunghwa-2018/github-readme-stats -->
 
 <p>
   <a href="https://github.com/chxuan/vimplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=chxuan&repo=vimplus&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="chxuan/vimplus"></a>
