@@ -132,7 +132,7 @@
 
 
 <h2>
-  <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='30'>
+  <img src='https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif' width='30'>
   𝗧𝗼𝗽 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗜'𝘃𝗲 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝘁𝗼
 </h2>
 <p>
