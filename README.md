@@ -120,6 +120,8 @@
   </a>
   <a href="https://github.com/chunghwa-2018/netease-music-controller"><img src="https://github-readme-stats.vercel.app/api/pin?username=chunghwa-2018&repo=netease-music-controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="netease-music-controller">
   </a>
+  <a href="https://github.com/chunghwa-2018/qq-music-controller"><img src="https://github-readme-stats.vercel.app/api/pin?username=chunghwa-2018&repo=qq-music-controller&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="qq-music-controller">
+  </a>
 </p>
 
 
