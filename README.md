@@ -86,7 +86,7 @@
 
 
 <h2>
-  <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="30">
+  <img src='https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif' width='30'>
   𝗦𝘁𝗮𝘁𝘀
 </h2>
 <p>
@@ -109,7 +109,7 @@
 </p>
 
 <h2>
-  <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="30">
+  <img src='https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif' width='30'>
   𝗠𝘆 𝘁𝗼𝗽 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 </h2>
 
