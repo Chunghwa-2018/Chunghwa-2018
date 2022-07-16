@@ -38,6 +38,7 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-007ACC?style=flat-square&logo=windows&logoColor=FFFFFF)
 ![MacOS X](https://img.shields.io/badge/-Mac-4A494A?style=flat-square&logo=apple&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArchLinux](https://img.shields.io/badge/-Arch-007ACC?style=flat-square&logo=archlinux&logoColor=FFFFFF)
 ![ManjaroLinux](https://img.shields.io/badge/-Manjaro-282C34?style=flat-square&logo=manjaro&logoColor=6ee5b8)
 
@@ -62,6 +63,7 @@
 ![Redis](https://img.shields.io/badge/-redis-942E1C?style=flat-square&logo=redis&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-4992e2?style=flat-square&logo=docker&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=flat-square&logo=jenkins&logoColor=FFFFFF)
+![prometheus](https://img.shields.io/badge/-prometheus-E5502b?style=flat-square&logo=prometheus&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Tomcat](https://img.shields.io/badge/-Apache-C88122?style=flat-square&logo=apachetomcat&logoColor=white)
