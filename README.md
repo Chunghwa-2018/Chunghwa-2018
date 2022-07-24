@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   𝗛𝗶, 𝗜'𝗺 𝗖𝗵𝘂𝗻𝗴𝗵𝘄𝗮!
   <img src="https://komarev.com/ghpvc/?username=chunghwa-2018">
 </h1>
@@ -147,9 +147,9 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="auto">
 
-<!-- 
+<!--
 ![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
