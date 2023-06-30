@@ -55,6 +55,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)
+![Python](https://custom-icon-badges.herokuapp.com/badge/Python-007396.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
 ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat-square&logo=database&logoColor=white)
