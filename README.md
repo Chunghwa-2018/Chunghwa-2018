@@ -79,7 +79,8 @@
 
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
-![Vim](https://img.shields.io/badge/-Vim-56953F?style=flat-square&logo=Vim)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim)
+![NeoVim](https://img.shields.io/badge/-NeoVim-57A143?style=flat-square&logo=neovim)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-58BFCD?style=flat-square&logo=webstorm&logoColor=000000&labelColor=3679f2)
 ![IDEA](https://img.shields.io/badge/-IDEA-3679f2?style=flat-square&logo=intellijIdea&logoColor=000000&labelColor=e9415a)
 ![VsCode](https://img.shields.io/badge/-vscode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
