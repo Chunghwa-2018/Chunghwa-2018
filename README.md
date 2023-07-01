@@ -41,8 +41,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArchLinux](https://img.shields.io/badge/-Arch-007ACC?style=flat-square&logo=archlinux&logoColor=FFFFFF)
 ![ManjaroLinux](https://img.shields.io/badge/-Manjaro-282C34?style=flat-square&logo=manjaro&logoColor=6ee5b8)
-![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=FFFFFF)
-![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FFFFFF)
+![AlibabaCloud](https://img.shields.io/badge/-Alibaba-FF6A00?style=flat-square&logo=alibabacloud&logoColor=FFFFFF)
+![AmazonAWS](https://img.shields.io/badge/-Amazon-232F3E?style=flat-square&logo=amazonaws&logoColor=FFFFFF)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat-square&logo=html5&logoColor=FFFFFF)
