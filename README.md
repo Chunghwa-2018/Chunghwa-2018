@@ -86,6 +86,7 @@
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
+![httpie](https://img.shields.io/badge/-httpie-73DC8C?style=flat-square&logo=insomnia&logoColor=FFFFFF)
 ![safari](https://img.shields.io/badge/-safari-6db33f?style=flat-square&logo=safari&logoColor=white)
 ![chrome](https://img.shields.io/badge/-chrome-red?style=flat-square&logo=googlechrome&logoColor=white)
 ![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
