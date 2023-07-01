@@ -67,7 +67,7 @@
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Tomcat](https://img.shields.io/badge/-Apache-C88122?style=flat-square&logo=apachetomcat&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-FFFFFF?style=flat-square&logo=maven&logoColor=C71A36)
+![Maven](https://img.shields.io/badge/-Maven-FFFFFF?style=flat-square&logo=apachemaven&logoColor=C71A36)
 ![Nginx](https://img.shields.io/badge/-nginx-009900?style=flat-square&logo=nginx&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
