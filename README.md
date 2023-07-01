@@ -76,7 +76,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
-![Fig](https://img.shields.io/badge/-Fig-000000?style=flat-square&logo=fg&logoColor=FFFFFF)
+![Fig](https://img.shields.io/badge/-Fig-000000?style=flat-square&logo=fig&logoColor=FFFFFF)
 
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
