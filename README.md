@@ -41,6 +41,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArchLinux](https://img.shields.io/badge/-Arch-007ACC?style=flat-square&logo=archlinux&logoColor=FFFFFF)
 ![ManjaroLinux](https://img.shields.io/badge/-Manjaro-282C34?style=flat-square&logo=manjaro&logoColor=6ee5b8)
+![AlibabaCloud](https://img.shields.io/badge/-AlibabaCloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=FFFFFF)
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FFFFFF)
+
 
 ![HTML5](https://img.shields.io/badge/-HTML5-important?style=flat-square&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat-square&logo=css3&logoColor=FFFFFF)
@@ -66,8 +69,8 @@
 ![prometheus](https://img.shields.io/badge/-prometheus-E5502b?style=flat-square&logo=prometheus&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-D65434?style=flat-square&logo=git&logoColor=FFFFFF)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Tomcat](https://img.shields.io/badge/-Apache-C88122?style=flat-square&logo=apachetomcat&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-FFFFFF?style=flat-square&logo=apachemaven&logoColor=C71A36)
+![Tomcat](https://img.shields.io/badge/-Tomcat-C88122?style=flat-square&logo=apachetomcat&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=FFFFFF)
 ![Nginx](https://img.shields.io/badge/-nginx-009900?style=flat-square&logo=nginx&logoColor=white)
 ![tmux](https://img.shields.io/badge/-tmux-FF69B4?style=flat-square&logo=tmux&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
