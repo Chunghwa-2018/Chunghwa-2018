@@ -84,6 +84,7 @@
 ![Webstorm](https://img.shields.io/badge/-Webstorm-58BFCD?style=flat-square&logo=webstorm&logoColor=000000&labelColor=3679f2)
 ![IDEA](https://img.shields.io/badge/-IDEA-3679f2?style=flat-square&logo=intellijIdea&logoColor=000000&labelColor=e9415a)
 ![VsCode](https://img.shields.io/badge/-vscode-0078d7?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF)
+![SonarLint](https://img.shields.io/badge/-sonarlint-CB2029?style=flat-square&logo=sonarlint&logoColor=FFFFFF)
 ![markdown](https://img.shields.io/badge/-markdown-282C34?style=flat-square&logo=markdown&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
