@@ -57,6 +57,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 
+
 ![Java](https://custom-icon-badges.herokuapp.com/badge/Java-007396.svg?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=FFFFFF)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=springBoot&logoColor=FFFFFF)
@@ -76,7 +77,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF)
 ![Bash](https://img.shields.io/badge/Bash-121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white)
-![Fig](https://img.shields.io/badge/-Fig-000000?style=flat-square&logo=fig&logoColor=FFFFFF)
 
 
 ![Alfred](https://img.shields.io/badge/-alfred-431b67?style=flat-square&logo=alfred&logoColor=FFFFFF)
@@ -93,6 +93,7 @@
 ![edge](https://img.shields.io/badge/-edge-1f77c8?style=flat-square&logo=microsoftedge&logoColor=white)
 ![firefox](https://img.shields.io/badge/-firefox-ff5935?style=flat-square&logo=firefox&logoColor=white)
 ![opera](https://img.shields.io/badge/-opera-ff1b30?style=flat-square&logo=opera&logoColor=white)
+![Fig](https://img.shields.io/badge/-Fig-000000?style=flat-square&logo=fig&logoColor=FFFFFF)
 
 
 <h2>
